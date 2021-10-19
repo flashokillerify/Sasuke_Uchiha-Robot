@@ -105,7 +105,7 @@ buttons = [
     [
                         InlineKeyboardButton(
                             text="Add me To Your Group",
-                            url="t.me/NohaXbot?startgroup=true")
+                            url="t.me/NohaXrobot?startgroup=true")
                     ],
                    [
                        InlineKeyboardButton(text="[► Help ◄]", callback_data="help_back"),
@@ -115,10 +115,10 @@ buttons = [
                     [                  
                        InlineKeyboardButton(
                              text="❔ Chat Do for bot?",
-                             url="https://t.me/noha_support"),
+                             url="https://t.me/nohax_support"),
                        InlineKeyboardButton(
                              text="📢 Updates",
-                             url="https://t.me/noha_updates")
+                             url="https://t.me/nohax_updates")
                      ], 
     ]
 
@@ -133,7 +133,7 @@ HELP_STRINGS = """
    ❂ in a group: will redirect you to pm, with all that chat's settings.
 """
 
-DONATE_STRING = """❂ I'm Free for Everyone ❂"""
+DONATE_STRING = """❂ if you want to donate us on https://commerce.coinbase.com/checkout/c2a4b1f3-bb2f-4225-a871-4cb4ad43ca4e as bitcoin :)❂"""
 
 
 IMPORTED = {}
