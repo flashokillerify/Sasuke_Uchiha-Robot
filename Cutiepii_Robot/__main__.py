@@ -91,7 +91,7 @@ PM_START_TEXT = """
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 • *Uptime:* `{}`
 • `{}` *users, across* `{}` *chats.*
-• *thnx to @Cutiepii_Robot for cutiepii robot repo*
+• **
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ➛ Try The Help Buttons Below To Know My Abilities ××
 """
@@ -105,7 +105,7 @@ buttons = [
     [
                         InlineKeyboardButton(
                             text="Add me To Your Group",
-                            url="t.me/NohaXrobot?startgroup=true")
+                            url="t.me/SasukeUchihaRObot?startgroup=true")
                     ],
                    [
                        InlineKeyboardButton(text="[► Help ◄]", callback_data="help_back"),
